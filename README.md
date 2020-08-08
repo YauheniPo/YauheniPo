@@ -1,15 +1,17 @@
 ### Hi there, I'm [Yauheni!](https://yauhenipo.github.io) 👋
 
-[<a href="https://www.linkedin.com/in/e-popovich">
-  <img align="left" alt="Evgeny Popovich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
-</a>]
-[<a href="https://t.me/YauheniPo">
-  <img align="left" alt="Yauheni Po | Telegram" width="21px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
-</a>]
-[<a href="skype:joncoffi1?chat">
-  <img align="left" alt="Yauheni Papovich | Skype" width="21px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
+<a href="https://www.linkedin.com/in/e-popovich">
+  <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
+</a>
+<br />
+<a href="https://t.me/YauheniPo">
+  <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
+</a>
+<br />
+<a href="skype:joncoffi1?chat">
+  <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
   joncoffi1
-</a>]
+</a>
 
 <br />
 <br />
@@ -20,10 +22,10 @@ Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://
 
 **Languages and Tools:**  
 
-<code><img height="21" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></code>
-<code><img height="21" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></code>
-<code><img height="21" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></code>
-<code><img height="21" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png"></code>
 
 
 <a href="https://github.com/YauheniPo">
