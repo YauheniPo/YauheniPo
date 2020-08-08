@@ -3,11 +3,9 @@
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
 </a>
-<br />
 <a href="https://t.me/YauheniPo">
   <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
 </a>
-<br />
 <a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
   joncoffi1
@@ -22,10 +20,10 @@ Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png"></code>
 
 
 <a href="https://github.com/YauheniPo">
@@ -34,6 +32,8 @@ Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://
 <a href="https://github.com/YauheniPo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YauheniPo&layout=compact&theme=radical" />
 </a>
+<!--- 
 <a href="https://github.com/YauheniPo/py_telegram_popot_bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YauheniPo&repo=py_telegram_popot_bot&theme=radical" />
 </a>
+--->
