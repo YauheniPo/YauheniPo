@@ -29,15 +29,16 @@ Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://
 <a href="https://github.com/YauheniPo">
   <img alt="YauheniPo’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YauheniPo&show_icons=true&hide-border=true"/>
 </a>
+<br />
 <a href="https://github.com/YauheniPo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YauheniPo&layout=compact&theme=radical" />
 </a>
+<br />
 <!--- 
 <a href="https://github.com/YauheniPo/py_telegram_popot_bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YauheniPo&repo=py_telegram_popot_bot&theme=radical" />
 </a>
 --->
-<br />
 
 <p align="center"> 
   Visitor count<br>
