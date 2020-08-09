@@ -3,11 +3,9 @@
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
 </a>
-|
 <a href="https://t.me/YauheniPo">
   <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
 </a>
-|
 <a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
   joncoffi1
@@ -39,6 +37,7 @@ Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YauheniPo&repo=py_telegram_popot_bot&theme=radical" />
 </a>
 --->
+<br />
 
 <p align="center"> 
   Visitor count<br>
