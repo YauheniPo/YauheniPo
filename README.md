@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Yauheni Papovich, a Senior Software Development Engineer in Test at [SoftSwiss](https://www.softswiss.com/) also I'm mentor, trainer-volunteer.
+I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.softswiss.com/), I'm mentor and trainer-volunteer as well.
 
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
