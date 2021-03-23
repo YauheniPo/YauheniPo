@@ -8,13 +8,13 @@
 </a>
 <a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
-  joncoffi1
+  -> joncoffi1
 </a>
 
 <br />
 <br />
 
-Hi, I'm Yauheni Papovich, a Software Engineer In Test at [EPAM Systems](https://github.com/epam) also I'm mentor, trainer-volunteer.
+Hi, I'm Yauheni Papovich, a Senior Software Development Engineer in Test at [SoftSwiss](https://www.softswiss.com/) also I'm mentor, trainer-volunteer.
 
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
