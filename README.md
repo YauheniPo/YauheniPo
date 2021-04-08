@@ -23,7 +23,7 @@ I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.so
 <code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot-framework.png" href="https://robotframework.org/"></code>
 
 
 <a href="https://github.com/YauheniPo">
