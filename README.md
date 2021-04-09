@@ -20,7 +20,7 @@ I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.so
 
 **Languages and Tools:**  
 
-<code><a href="https://www.oracle.com/java/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.svg"></a></code>
+<code><a href="https://www.oracle.com/java/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.png"></a></code>
 <code><a href="https://www.python.org/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python.svg"></a></code>
 <code><a href="https://dev.azure.com/YauheniPo"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azuredevops.svg"></a></code>
 <code><a href="https://robotframework.org/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/robot.jpeg"></a></code>
