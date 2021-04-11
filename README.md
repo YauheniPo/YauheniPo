@@ -1,15 +1,19 @@
-### Hi there, I'm [Yauheni!](https://yauhenipo.github.io) 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+  <img align="right" src="https://media.giphy.com/media/V72fyK86e9NQLOgtZi/giphy.gif" width="100"/>
+</h1>
+Welcome to my page!
+I'm [Yauheni!](https://yauhenipo.github.io) 👋
 
-<code><a href="https://www.linkedin.com/in/e-popovich">
+<a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
-</a></code>
-<code><a href="https://t.me/YauheniPo">
+</a>
+<a href="https://t.me/YauheniPo">
   <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
-</a></code>
-<code><a href="skype:joncoffi1?chat">
+</a>
+<a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
   joncoffi1
-</a></code>
+</a>
 
 <br />
 <br />
