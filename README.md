@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
   <img align="right" src="https://media.giphy.com/media/V72fyK86e9NQLOgtZi/giphy.gif" width="100"/>
 </h1>
-Welcome to my page!
-I'm [Yauheni!](https://yauhenipo.github.io) 👋
+<p>Welcome to my page!</p>
+<p>I'm [Yauheni!](https://yauhenipo.github.io) 👋</p>
 
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
