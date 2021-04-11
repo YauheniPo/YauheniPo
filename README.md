@@ -1,15 +1,15 @@
 ### Hi there, I'm [Yauheni!](https://yauhenipo.github.io) 👋
 
-<a href="https://www.linkedin.com/in/e-popovich">
+<code><a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
-</a>
-<a href="https://t.me/YauheniPo">
+</a></code>
+<code><a href="https://t.me/YauheniPo">
   <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
-</a>
-<a href="skype:joncoffi1?chat">
+</a></code>
+<code><a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
-  -> joncoffi1
-</a>
+  joncoffi1
+</a></code>
 
 <br />
 <br />
