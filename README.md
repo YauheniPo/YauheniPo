@@ -4,7 +4,7 @@
 </br>
 Welcome to my page!
 </br>
-I'm [Yauheni!](https://yauhenipo.github.io) 👋
+<h3> I'm [Yauheni!](https://yauhenipo.github.io) 👋 </h3>
 </br>
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
