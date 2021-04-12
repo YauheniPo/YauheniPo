@@ -33,10 +33,10 @@ I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.so
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-ea2845?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="RobotFramework" src="https://img.shields.io/badge/-RobotFramework-43853d?style=flat-square&logo=robot-framework&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-13aa52?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-F7B93E?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-B7178C?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-F9A03C?style=flat-square&logo=cucumber&logoColor=white" />
-  <img alt="gradle" src="https://img.shields.io/badge/-gradle-EC4A3F?style=flat-square&logo=gradle&logoColor=white" />
-  <img alt="maven" src="https://img.shields.io/badge/-maven-FB542B?style=flat-square&logo=maven&logoColor=white" />
+  <img alt="gradle" src="https://img.shields.io/badge/-gradle-5849BE?style=flat-square&logo=gradle&logoColor=white" />
+  <img alt="maven" src="https://img.shields.io/badge/-maven-430098?style=flat-square&logo=maven&logoColor=white" />
 </p>
 
 <a href="https://github.com/YauheniPo">
