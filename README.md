@@ -31,8 +31,11 @@ I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.so
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-Selenium-ea2845?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="selenium" src="https://img.shields.io/badge/-Selenium-ea2845?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="robot" src="https://img.shields.io/badge/-RobotFramework-43853d?style=flat-square&logo=robot-framework&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-13aa52?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-F7B93E?style=flat-square&logo=jira&logoColor=white" />
+  
 </p>
 
 <a href="https://github.com/YauheniPo">
