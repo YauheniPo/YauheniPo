@@ -8,9 +8,9 @@
 <a href="https://t.me/YauheniPo">
   <img align="left" alt="Yauheni Po | Telegram" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Telegram_logo.svg" />
 </a>
-<a href="skype:joncoffi1?chat">
+<!-- <a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
