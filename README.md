@@ -10,7 +10,6 @@
 </a>
 <a href="skype:joncoffi1?chat">
   <img align="left" alt="Yauheni Papovich | Skype" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Skype_logo.svg" />
-  joncoffi1
 </a>
 
 <br />
@@ -31,11 +30,13 @@ I'm a Senior Software Development Engineer in Test at [SoftSwiss](https://www.so
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="selenium" src="https://img.shields.io/badge/-Selenium-ea2845?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="robot" src="https://img.shields.io/badge/-RobotFramework-43853d?style=flat-square&logo=robot-framework&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-ea2845?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="RobotFramework" src="https://img.shields.io/badge/-RobotFramework-43853d?style=flat-square&logo=robot-framework&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-13aa52?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-F7B93E?style=flat-square&logo=jira&logoColor=white" />
-  
+  <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-F9A03C?style=flat-square&logo=cucumber&logoColor=white" />
+  <img alt="gradle" src="https://img.shields.io/badge/-gradle-EC4A3F?style=flat-square&logo=gradle&logoColor=white" />
+  <img alt="maven" src="https://img.shields.io/badge/-maven-FB542B?style=flat-square&logo=maven&logoColor=white" />
 </p>
 
 <a href="https://github.com/YauheniPo">
