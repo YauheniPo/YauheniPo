@@ -19,6 +19,10 @@ I'm a Tech Lead / SDET at [TangoMe](https://www.tango.me/), I'm mentor and train
 
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
+
+[![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
+
+
 <h3>Things I code with</h3>
 <code><a href="https://www.oracle.com/java/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.png"></a></code>
 <code><a href="https://www.python.org/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python6.png"></a></code>
