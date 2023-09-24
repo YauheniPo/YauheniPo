@@ -20,7 +20,7 @@ I'm a Tech Lead / SDET at [TangoMe](https://www.tango.me/), I'm mentor and train
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
 
-Download my CV 📃 [![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
+<b>Download my CV</b> 📃 - [![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
 
 
 <h3>Things I code with</h3>
