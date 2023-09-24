@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
   <img align="right" src="https://media.giphy.com/media/V72fyK86e9NQLOgtZi/giphy.gif" width="100"/>
 </h1>
-<p>Welcome to my page! </br> I'm Yauheni, Senior SDET from <b>Minsk, Belarus</b></p>
+<p>Welcome to my page! </br> I'm Yauheni, Tech Lead / SDET from <b>Minsk, Belarus</b> / <b>Warsaw, Poland</b></p>
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
 </a>
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-I'm a Senior Software Development Engineer in Test at [TangoMe](https://www.tango.me/), I'm mentor and trainer-volunteer as well.
+I'm a Tech Lead / SDET at [TangoMe](https://www.tango.me/), I'm mentor and trainer-volunteer as well.
 
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
