@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Yauheni, Tech Lead / SDET from <b>Minsk, Belarus</b> / <b>Warsaw, Poland</b> at [TangoMe](https://www.tango.me/), mentor and trainer-volunteer as well.</p>
+<p>Welcome to my page! </br> I'm Yauheni, Tech Lead / SDET from <b>Minsk, Belarus</b> / <b>Warsaw, Poland</b> at <code><a href="https://www.tango.me/"><img height="45" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/unnamed.webp"></a></code>, mentor and trainer-volunteer as well.</p>
 <a href="https://www.linkedin.com/in/e-popovich">
   <img align="left" alt="Evgeny Popovich | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
 </a>
@@ -16,7 +16,9 @@
 - 💬 Ask me about anything [here](https://github.com/YauheniPo/YauheniPo/issues)
 
 
-<b>Download my CV</b> 📃 - [![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
+<b>Download my CV</b> 📃
+<br />
+[![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
 
 
 <h3>Things I code with</h3>
