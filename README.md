@@ -18,7 +18,7 @@
 
 <b>Download my CV</b> 📃
 <br />
-[![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1pbNmVzbjR4_8N80bx8PQDT6z7tnUSijn/view?usp=sharing)
+[![Download my CV](https://img.shields.io/badge/Download-File-blue.svg)](https://docs.google.com/document/d/1VBy0iw40bdDYPPkWVxyd_FIseGaqaO86qMuwnqIKK8s/edit?usp=sharing)
 
 
 <h3>Things I code with</h3>
