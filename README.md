@@ -71,18 +71,18 @@ flowchart LR
     A[Code Change] --> B[Build & Static Checks]
     B --> C[API Tests]
     B --> D[UI Tests]
+    B --> H[Mobile Tests]
     C --> E[Quality Gate]
     D --> E
+    H --> E
     E --> F[Deploy]
     F --> G[Monitoring & Feedback]
 ```
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YauheniPo&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YauheniPo&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+[![GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=YauheniPo&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=86400)](https://github.com/YauheniPo)
+[![Top languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YauheniPo&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400)](https://github.com/YauheniPo)
 
 ## Contact
 
