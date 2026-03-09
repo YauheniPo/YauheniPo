@@ -34,25 +34,33 @@
 - I mentor engineers to scale quality ownership across teams.
 
 ## Automation Stack
-
-<p>
-  <a href="https://www.oracle.com/java/"><img height="44" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/java.png" alt="Java" /></a>
-  <a href="https://www.python.org/"><img height="44" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/python6.png" alt="Python" /></a>
-  <a href="https://kotlinlang.org/"><img height="44" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/kotlin3.jpg" alt="Kotlin" /></a>
-  <a href="https://jdi-docs.github.io/jdi-light/"><img height="44" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/jdi.jpeg" alt="JDI" /></a>
-  <a href="https://dev.azure.com/YauheniPo"><img height="44" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/azure2.png" alt="Azure DevOps" /></a>
-</p>
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Selenide" src="https://img.shields.io/badge/Selenide-16A34A?style=flat-square" />
+  <img alt="Appium" src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
+  <img alt="XCTest" src="https://img.shields.io/badge/XCTest-0A84FF?style=flat-square" />
   <img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white" />
+  <img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-0F766E?style=flat-square" />
+  <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img alt="TestNG" src="https://img.shields.io/badge/TestNG-D32F2F?style=flat-square" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
   <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Allure TestOps" src="https://img.shields.io/badge/Allure%20TestOps-8B5CF6?style=flat-square" />
+  <img alt="ReportPortal" src="https://img.shields.io/badge/ReportPortal-FF6A00?style=flat-square" />
+  <img alt="TestRail" src="https://img.shields.io/badge/TestRail-65C179?style=flat-square" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 </p>
 
 ## What I build
@@ -68,16 +76,36 @@
 
 ```mermaid
 flowchart LR
-    A[Code Change] --> B[Build & Static Checks]
-    B --> C[API Tests]
-    B --> D[UI Tests]
-    B --> H[Mobile Tests]
-    C --> E[Quality Gate]
-    D --> E
-    H --> E
-    E --> F[Deploy]
-    F --> G[Monitoring & Feedback]
+    A[Code Change] --> B[Lint and Static Analysis]
+    B --> C[Build: Gradle and Maven]
+    C --> D[API Tests]
+    C --> E[Web UI Tests]
+    C --> F[Mobile Tests: iOS and Android]
+    D --> G[Service Virtualization and Mock Streams]
+    E --> G
+    F --> G
+    G --> H[Parallel Runs and Retry Strategy]
+    H --> I[Quality Gate: Allure TestOps and ReportPortal]
+    I --> J[CI/CD Pipelines]
+    J --> K[Deploy to Kubernetes and Microservices]
+    K --> L[Monitoring and KPI Dashboards]
 ```
+
+### What I can configure end-to-end
+
+- Backend, iOS, and Web automation framework architecture.
+- Spring mock services and mock streams to cut flaky tests and reduce environment load by 85%.
+- Parallel test execution, retry strategy, and logging improvements for stable runs (up to 98% pass rate).
+- CI/CD quality gates with Allure TestOps, ReportPortal, and KPI data collection tooling.
+- Mobile test automation ownership for iOS and Android (automation + release testing).
+- Pipeline optimization that reduced average testing time and sped up delivery by about 50% (and about 30% for iOS/Web client delivery).
+
+### What I own as Tech Lead
+
+- Estimation, sprint planning, and task prioritization for automation teams (4 to 6 engineers).
+- Framework strategy, architecture decisions, and code review standards.
+- Technical interviews and mentoring for QA/SDET engineers.
+- Cross-functional quality ownership with Product, Developers, and QA through release readiness.
 
 ## GitHub Activity
 
