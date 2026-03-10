@@ -98,7 +98,7 @@ flowchart LR
 - Parallel test execution, retry strategy, and logging improvements for stable runs (up to 98% pass rate).
 - CI/CD quality gates with Allure TestOps, ReportPortal, and KPI data collection tooling.
 - Mobile test automation ownership for iOS and Android (automation + release testing).
-- Pipeline optimization that reduced average testing time and sped up delivery by about 50% (and about 30% for iOS/Web client delivery).
+- Pipeline optimization that can reduce average testing time and speed up delivery by about 50% (and about 30% for iOS/Web client delivery).
 
 ### What I own as Tech Lead
 
