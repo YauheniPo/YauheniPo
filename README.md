@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Yauheni Popovich</h1>
+  <h1>Yauheni Papovich</h1>
   <h3>Tech Lead | SDET | Automation Architect</h3>
   <p>
     I build scalable QA ecosystems, CI/CD quality gates, and resilient test automation for fast product delivery.
