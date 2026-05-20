@@ -13,7 +13,7 @@
     <a href="https://t.me/YauheniPo">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://docs.google.com/document/d/1VBy0iw40bdDYPPkWVxyd_FIseGaqaO86qMuwnqIKK8s/edit?usp=sharing">
+    <a href="https://drive.google.com/file/d/16G0FElmSwaJIkLLhcqEbzQHjHkmRI1AE/view?usp=drive_link">
       <img src="https://img.shields.io/badge/CV-Open-1f883d?style=for-the-badge" alt="CV" />
     </a>
   </p>
