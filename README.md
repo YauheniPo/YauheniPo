@@ -1,12 +1,13 @@
 <div align="center">
   <h1>Yauheni Papovich</h1>
-  <h3>Tech Lead | SDET | Automation Architect</h3>
+  <h3>QA Automation Tech Lead | Lead SDET | Quality Engineering Leader</h3>
   <p>
-    I build scalable QA ecosystems, CI/CD quality gates, and resilient test automation for fast product delivery.
+    I build scalable quality engineering platforms for high-load products: test architecture, KMM frameworks,
+    shift-left CI/CD, observability, and AI-assisted QA workflows.
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/e-popovich">
+    <a href="https://www.linkedin.com/in/evgeny-popovich">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://t.me/YauheniPo">
@@ -18,9 +19,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Automation%20Strategy-111827?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Delivery-CI%2FCD%20Quality%20Gates-111827?style=flat-square" alt="Delivery" />
-    <img src="https://img.shields.io/badge/Role-Tech%20Lead%20%7C%20Mentor-111827?style=flat-square" alt="Role" />
+    <img src="https://img.shields.io/badge/Focus-Test%20Architecture-111827?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Scale-5%2C850%2B%20Autotests-111827?style=flat-square" alt="Scale" />
+    <img src="https://img.shields.io/badge/Role-Tech%20Lead%20%7C%20Lead%20SDET-111827?style=flat-square" alt="Role" />
   </p>
 </div>
 
@@ -28,18 +29,20 @@
 
 ## Why teams trust me
 
-- I turn flaky, slow test suites into stable delivery pipelines.
-- I design maintainable test architecture for UI, API, and integration layers.
-- I embed quality into CI/CD so releases stay fast and safe.
-- I mentor engineers to scale quality ownership across teams.
+- 8+ years in QA Automation / SDET leadership across live streaming, iGaming, and healthcare.
+- Platform owner for 12 feature teams across 4 product lines, with up to 6 direct-report SDETs.
+- Architected ~5,850+ autotests across WEB Playwright, iOS XCTest, and backend E2E layers.
+- Re-platformed WEB regression from Selenium Grid to cross-browser Playwright: ~98%+ stability and 3h to 50min regression time.
+- Launched AI agents for QA with RAG, Allure MCP, and custom MCP integrations: ~25% savings on documentation and triage.
 
 ## Automation Stack
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Selenide" src="https://img.shields.io/badge/Selenide-16A34A?style=flat-square" />
+  <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/KMM-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Appium" src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
   <img alt="XCTest" src="https://img.shields.io/badge/XCTest-0A84FF?style=flat-square" />
   <img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white" />
@@ -53,6 +56,7 @@
   <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Allure TestOps" src="https://img.shields.io/badge/Allure%20TestOps-8B5CF6?style=flat-square" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-AI%20for%20QA-8B5CF6?style=flat-square" />
   <img alt="ReportPortal" src="https://img.shields.io/badge/ReportPortal-FF6A00?style=flat-square" />
   <img alt="TestRail" src="https://img.shields.io/badge/TestRail-65C179?style=flat-square" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -67,44 +71,45 @@
 
 | Area | Outcome |
 |---|---|
-| Test Frameworks | Reusable, readable, and scalable automation architecture |
-| CI/CD Quality Gates | Fast feedback with confidence on every commit |
-| Reliability Engineering | Flaky test reduction and stable release readiness |
-| Team Enablement | Mentoring, standards, and practical quality leadership |
+| Test Architecture | Cross-stack KMM framework for WEB, iOS, Backend/Android, and API automation |
+| CI/CD Quality Gates | GitLab shift-left flows across 160+ microservices with deploy, autotests, validation, and release certification |
+| Reliability Engineering | Mock/stub platforms, deterministic test data, and observability that reduce flaky tests and defect escape |
+| AI for QA | RAG agents, Allure MCP, AI failure analysis, and AI-assisted review for faster triage |
+| Team Enablement | Automation roadmap, mentoring, standards, hiring, and practical quality leadership |
 
 ## Automation Delivery Preview
 
 ```mermaid
 flowchart LR
     A[Code Change] --> B[Lint and Static Analysis]
-    B --> C[Build: Gradle and Maven]
-    C --> D[API Tests]
-    C --> E[Web UI Tests]
-    C --> F[Mobile Tests: iOS and Android]
-    D --> G[Service Virtualization and Mock Streams]
+    B --> C[Build: Gradle, Maven, Java 21]
+    C --> D[API and Backend E2E]
+    C --> E[WEB Playwright: Chromium, Firefox, WebKit]
+    C --> F[iOS XCTest and Mobile Flows]
+    D --> G[KMM Shared Modules and gRPC DTOs]
     E --> G
     F --> G
-    G --> H[Parallel Runs and Retry Strategy]
-    H --> I[Quality Gate: Allure TestOps and ReportPortal]
-    I --> J[CI/CD Pipelines]
-    J --> K[Deploy to Kubernetes and Microservices]
-    K --> L[Monitoring and KPI Dashboards]
+    G --> H[Mock Streams, UI Mocks and Deterministic Test Data]
+    H --> I[Parallel Runs and Quality Gates]
+    I --> J[Allure TestOps, Grafana and Coralogix]
+    J --> K[GitLab Shift-Left Pipelines]
+    K --> L[Release Certification and KPI Dashboards]
 ```
 
 ### What I can configure end-to-end
 
-- Backend, iOS, and Web automation framework architecture.
-- Spring mock services and mock streams to cut flaky tests and reduce environment load by 85%.
-- Parallel test execution, retry strategy, and logging improvements for stable runs (up to 98% pass rate).
-- CI/CD quality gates with Allure TestOps, ReportPortal, and KPI data collection tooling.
-- Mobile test automation ownership for iOS and Android (automation + release testing).
-- Pipeline optimization that can reduce average testing time and speed up delivery by about 50% (and about 30% for iOS/Web client delivery).
+- Backend, iOS, Android, Web, and API automation framework architecture with shared KMM modules.
+- Spring Boot mock/stub services, mock streams, UI component mocks, and third-party dependency virtualization.
+- Cross-browser Playwright regression with Moon, BrowserStack, real iOS devices, and parallel execution.
+- GitLab CI/CD quality gates with Allure TestOps, Grafana KPI dashboards, Coralogix log analysis, and Slack/Jira notifications.
+- AI-assisted QA workflows: RAG documentation, Allure MCP integrations, test-run troubleshooting, and code-review support.
+- Pipeline optimization that reduces regression time, speeds up releases, and raises stability for product teams.
 
 ### What I own as Tech Lead
 
-- Estimation, sprint planning, and task prioritization for automation teams (4 to 6 engineers).
-- Framework strategy, architecture decisions, and code review standards.
-- Technical interviews and mentoring for QA/SDET engineers.
+- Automation roadmap and platform ownership for multiple feature teams and product lines.
+- Estimation, sprint planning, task prioritization, framework strategy, and code review standards.
+- Technical interviews, hiring, and mentoring for QA, Manual QA, and SDET engineers.
 - Cross-functional quality ownership with Product, Developers, and QA through release readiness.
 
 ## GitHub Activity
@@ -114,6 +119,6 @@ flowchart LR
 
 ## Contact
 
-- LinkedIn: [e-popovich](https://www.linkedin.com/in/e-popovich)
+- LinkedIn: [evgeny-popovich](https://www.linkedin.com/in/evgeny-popovich)
 - Telegram: [@YauheniPo](https://t.me/YauheniPo)
 - Questions / collab: [open an issue](https://github.com/YauheniPo/YauheniPo/issues)
