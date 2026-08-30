@@ -22,9 +22,9 @@ I lead hands-on quality engineering for high-load web, mobile, and backend produ
 
 ## Open-source contributions
 
-- [Healenium](https://github.com/healenium/healenium-web) — contributor to a self-healing Selenium UI-testing library.
+- [Healenium](https://github.com/healenium/healenium-web) — contributor to a self-healing Selenium UI-testing library, including validation of self-healing configuration and implementation improvements ([commit history](https://github.com/healenium/healenium-web/commits?author=YauheniPo)).
 - [JDI Light](https://github.com/jdi-testing/jdi-light) — contributed four upstream improvements to the Java UI-test automation framework.
-- [Robot Framework SeleniumLibrary for Java](https://github.com/MarketSquare/robotframework-seleniumlibrary-java) — contributor to the Java port of SeleniumLibrary for Robot Framework.
+- [Robot Framework SeleniumLibrary for Java](https://github.com/MarketSquare/robotframework-seleniumlibrary-java) — contributor to the Java port of SeleniumLibrary, including custom keywords and WebDriverManager integration ([commit history](https://github.com/MarketSquare/robotframework-seleniumlibrary-java/commits?author=YauheniPo)).
 - [Anthropic Claude Code Action #1710](https://github.com/anthropics/claude-code-action/pull/1710) — merged contribution that fixed branch-name validation for valid names containing parentheses.
 
 ## Private-product impact
