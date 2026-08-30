@@ -33,7 +33,7 @@ Most production work is in private repositories. Selected outcomes from that wor
 
 - Led the automation platform and roadmap across 12 feature teams and 4 product lines; technical lead for 4 SDETs.
 - Re-platformed cross-browser web regression to Playwright, increasing stability to 98%+ and reducing full runtime from 3 hours to 50 minutes.
-- Built shared Kotlin Multiplatform modules and automation foundations used across web, iOS, Android, backend, and API testing.
+- Built shared Kotlin Multiplatform modules for test contracts, data models, and reusable automation foundations across mobile, web, backend, and API layers.
 - Introduced service virtualization, deterministic test data, and observability practices that cut flaky streaming tests by 85%.
 - Integrated quality gates and automated validation into GitLab CI/CD for 200+ microservices.
 - Built AI-assisted workflows around QA documentation, failure triage, and code review, reducing manual triage and documentation effort by about 25%.
